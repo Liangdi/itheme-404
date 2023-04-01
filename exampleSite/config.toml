@@ -1,0 +1,10 @@
+baseURL = '/'
+languageCode = 'en'
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+title = 'Apple Newsroom'
+copyright = 'Floyd Li'
+theme = 'itheme-404'
+paginate = 5
+[params]
+  beian = "备案号"
